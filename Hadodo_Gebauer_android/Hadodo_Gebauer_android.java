@@ -7,7 +7,7 @@ public static void main (String[]a){
 
 <<<<<<< HEAD
 public thisIsANewMethod() {
-	Ra1nbow.getColoures("BuntesEinhorn");
+	Ra1nbow.getColoures("BuntesEinhorn"); //Hrn
  }
 =======
 
