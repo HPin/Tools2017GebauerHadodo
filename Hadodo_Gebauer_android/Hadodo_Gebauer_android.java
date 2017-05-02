@@ -15,6 +15,9 @@ public pferdeFlüstern() {
 	}
 }
 	public int chatoto (int türkischeFamilienmitglieder){
+		int murat = 0;
+		int ali = 7;
+		long mustafa = 99;
 	return türkischeFamilienmitglieder;
 	}
 }
