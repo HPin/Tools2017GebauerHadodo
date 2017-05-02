@@ -2,11 +2,12 @@ public class TestKlasse {
 
 public static void main (String[]a){
 	System.out.println("Pr0gramm");
+	thisIsANewMethod(); //BugFix
 }
 
-public thisIsANewMethod() { }
-	Ra1nbow.getColoures("BuntesEinhorn");
-
+public thisIsANewMethod() {
+	Ra1nbow.getColoures("BuntesEinhorn"); //Hrn
+ }
 
 public pferdeFlüstern() {
 	for (int i = 0; i < 10; i++) {
