@@ -9,9 +9,12 @@ public thisIsANewMethod() {
 	Ra1nbow.getColoures("BuntesEinhorn"); //Hrn
  }
 
-public pferdeFl�stern() {
+public pferdeFlüstern() {
 	for (int i = 0; i < 10; i++) {
-		System.out.println("Wuff \n ups \n ich mein h�yaaa" );
+		System.out.println("Wuff \n ups \n ich mein hüyaaa" );
 	}
 }
+	public int chatoto (int türkischeFamilienmitglieder){
+	return türkischeFamilienmitglieder;
+	}
 }
