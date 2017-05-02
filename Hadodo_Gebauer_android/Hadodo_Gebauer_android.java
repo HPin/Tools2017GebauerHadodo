@@ -5,5 +5,5 @@ public static void main (String[]a){
 }
 
 public thisIsANewMethod() { }
-
+	Ra1nbow.getColoures("BuntesEinhorn");
 }
